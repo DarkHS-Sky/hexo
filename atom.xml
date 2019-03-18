@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>似曾相识燕归来</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-03-17T14:22:22.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>似曾相识</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>在写一个</title>
+    <link href="http://yoursite.com/2019/03/17/%E5%9C%A8%E5%86%99%E4%B8%80%E4%B8%AA/"/>
+    <id>http://yoursite.com/2019/03/17/在写一个/</id>
+    <published>2019-03-17T14:21:05.580Z</published>
+    <updated>2019-03-17T14:22:22.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>还想写一个</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="一天" scheme="http://yoursite.com/tags/%E4%B8%80%E5%A4%A9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>今天结束了</title>
+    <link href="http://yoursite.com/2019/03/17/%E4%BB%8A%E5%A4%A9%E7%BB%93%E6%9D%9F%E4%BA%86/"/>
+    <id>http://yoursite.com/2019/03/17/今天结束了/</id>
+    <published>2019-03-17T08:30:40.000Z</published>
+    <updated>2019-03-17T09:11:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>  一天结束了，博客的内容不知道该写什么好，主题配置了很多，还有待改善，挺好玩的，算是不错的工具了，等自己学到好技术，就和大家一起分享！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="一天" scheme="http://yoursite.com/tags/%E4%B8%80%E5%A4%A9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试使用密码+测试版权信息</title>
+    <link href="http://yoursite.com/2019/03/17/%E6%B5%8B%E8%AF%95%E4%BD%BF%E7%94%A8%E5%AF%86%E7%A0%81/"/>
+    <id>http://yoursite.com/2019/03/17/测试使用密码/</id>
+    <published>2019-03-17T05:50:53.000Z</published>
+    <updated>2019-03-17T08:18:10.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1330480529&auto=1&height=66"></iframe><p>你要的全拿走<br>把回忆化成空<br>不要在乎感受<br>体面的有所保留<br>说过的话当赠品附送<br>我不必再为你迁就<br>说一句分手借口<br>一遍两遍三遍<br>最后百口莫辩<br>情话只是偶尔兑现的谎言<br>曾爱的贪得无厌<br>也要为过去留一些尊严<br>散了我们就干脆一点<br>你要的全拿走<br>剩下的我承受<br>留下我们的狗<br>别管有没有用<br>我怕它以后没人宠<br>哪怕它不懂我的痛<br>我不必再为你强求</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>3.17 博客第一记</title>
+    <link href="http://yoursite.com/2019/03/17/3-17-%E5%8D%9A%E5%AE%A2%E7%AC%AC%E4%B8%80%E8%AE%B0/"/>
+    <id>http://yoursite.com/2019/03/17/3-17-博客第一记/</id>
+    <published>2019-03-17T01:24:21.000Z</published>
+    <updated>2019-03-17T03:28:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>在今天我利用Hexo和GitHub完成了了我的第一个博客网站，感谢CSDN大佬的教程，详细且简介明了。<br>在此说明一下，这个博客一定会更好的，我可以的，嘿嘿。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
