@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[在写一个]]></title>
-    <url>%2F2019%2F03%2F17%2F%E5%9C%A8%E5%86%99%E4%B8%80%E4%B8%AA%2F</url>
-    <content type="text"><![CDATA[还想写一个]]></content>
+    <title><![CDATA[3.18博客有待改善]]></title>
+    <url>%2F2019%2F03%2F18%2F3-18%E5%8D%9A%E5%AE%A2%E6%9C%89%E5%BE%85%E6%94%B9%E5%96%84%2F</url>
+    <content type="text"><![CDATA[###大致完成，有待提升 今日大致配置了博客NEXT主题的各种功能，加入了在线联系，搞怪的JS网页标题特效，加入了网易云音乐歌单，动态背景和鼠标点击特效。 #修改以下部分# 关掉了busuanzi统计功能，开启会使文档显示俩统计字数和热度，修改了网页图标， ##以下为未完成功能## #不同浏览器会有不同的bug# #网站统计总访客量# #侧边栏的背景# #鼠标样式#]]></content>
       <tags>
-        <tag>一天</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[今天结束了]]></title>
-    <url>%2F2019%2F03%2F17%2F%E4%BB%8A%E5%A4%A9%E7%BB%93%E6%9D%9F%E4%BA%86%2F</url>
-    <content type="text"><![CDATA[一天结束了，博客的内容不知道该写什么好，主题配置了很多，还有待改善，挺好玩的，算是不错的工具了，等自己学到好技术，就和大家一起分享！]]></content>
-      <tags>
-        <tag>一天</tag>
+        <tag>博客建设</tag>
       </tags>
   </entry>
   <entry>
