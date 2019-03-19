@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-19T05:48:34.000Z</updated>
+  <updated>2019-03-19T07:59:08.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2019/03/18/3-18%E5%8D%9A%E5%AE%A2%E6%9C%89%E5%BE%85%E6%94%B9%E5%96%84/"/>
     <id>http://yoursite.com/2019/03/18/3-18博客有待改善/</id>
     <published>2019-03-18T11:58:15.000Z</published>
-    <updated>2019-03-19T05:48:34.000Z</updated>
+    <updated>2019-03-19T07:59:08.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="大致完成，有待提升"><a href="#大致完成，有待提升" class="headerlink" title="大致完成，有待提升"></a>大致完成，有待提升</h1><p>​                                                           <strong>一张好看的妹子照片，她应该不会知道吧。</strong></p><p><img src="https://ws1.sinaimg.cn/mw690/005Jbiotly1g17ap2ut0zj30u01hcgz0.jpg" alt></p><p>今日大致配置了博客NEXT主题的各种功能，加入了在线联系，搞怪的JS网页标题特效，加入了网易云音乐歌单，动态背景和鼠标点击特效。</p><h2 id="修改以下部分"><a href="#修改以下部分" class="headerlink" title="修改以下部分"></a>修改以下部分</h2><p>关掉了<strong>busuanzi统计</strong>功能，开启会使文档显示俩统计字数和热度，修改了网页图标，</p><p>3.19：修改鼠标点击特效为爱心，关掉了显示热度。网易云歌单出现了问题</p><h2 id="以下为未完成功能"><a href="#以下为未完成功能" class="headerlink" title="以下为未完成功能"></a>以下为未完成功能</h2><p><strong>不同浏览器会有不同的bug</strong></p><p><strong>网站统计总访客量：崩了</strong></p><p><strong>侧边栏的背景：还是不会</strong></p><p>*<em>鼠标样式：正在找好看的样式</em></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="大致完成，有待提升"><a href="#大致完成，有待提升" class="headerlink" title="大致完成，有待提升"></a><strong><u>大致完成，有待提升</u></strong></h1><p>​                                                           <strong>一张好看的妹子照片，她应该不会知道吧。</strong></p><p><img src="https://ws1.sinaimg.cn/mw690/005Jbiotly1g17ap2ut0zj30u01hcgz0.jpg" alt></p><p>今日大致配置了博客NEXT主题的各种功能，加入了在线联系，搞怪的JS网页标题特效，加入了网易云音乐歌单，动态背景和鼠标点击特效。</p><h2 id="修改以下部分"><a href="#修改以下部分" class="headerlink" title="修改以下部分"></a>修改以下部分</h2><p>关掉了<strong>busuanzi统计</strong>功能，开启会使文档显示俩统计字数和热度，修改了网页图标，</p><p>3.19：修改鼠标点击特效为爱心，关掉了显示热度。网易云歌单出现了问题</p><h2 id="以下为未完成功能"><a href="#以下为未完成功能" class="headerlink" title="以下为未完成功能"></a>以下为未完成功能</h2><p><strong>不同浏览器会有不同的bug</strong></p><p><strong>网站统计总访客量：崩了</strong></p><p><strong>侧边栏的背景：还是不会</strong></p><p><strong>鼠标样式：正在找好看的样式</strong></p>]]></content>
     
     <summary type="html">
     
