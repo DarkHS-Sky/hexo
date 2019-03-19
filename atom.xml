@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-19T07:59:08.000Z</updated>
+  <updated>2019-03-19T15:16:52.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>3.19晚上网站上传出现问题，域名解析也崩，我卒</title>
+    <link href="http://yoursite.com/2019/03/19/3-19%E6%99%9A%E4%B8%8A%E7%BD%91%E7%AB%99%E4%B8%8A%E4%BC%A0%E5%87%BA%E7%8E%B0%E9%97%AE%E9%A2%98%EF%BC%8C%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90%E4%B9%9F%E5%B4%A9%EF%BC%8C%E6%88%91%E5%8D%92/"/>
+    <id>http://yoursite.com/2019/03/19/3-19晚上网站上传出现问题，域名解析也崩，我卒/</id>
+    <published>2019-03-19T15:05:59.000Z</published>
+    <updated>2019-03-19T15:16:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="443端口超时"><a href="#443端口超时" class="headerlink" title="443端口超时"></a>443端口超时</h1><p>执行<strong>hexo d</strong> 出现443端口超时，SSH也连接不上，各种难受，俩小时的各种折腾，现在应该是好了，期待明天吧</p><h2 id="照例放一张妹纸的照片吧"><a href="#照例放一张妹纸的照片吧" class="headerlink" title="照例放一张妹纸的照片吧"></a>照例放一张妹纸的照片吧</h2><p><img src="https://ws1.sinaimg.cn/large/005Jbiotly1g18igkhfxrj30u0140nbj.jpg" alt></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="博客建设" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E8%AE%BE/"/>
+    
+  </entry>
   
   <entry>
     <title>3.18博客有待改善</title>
