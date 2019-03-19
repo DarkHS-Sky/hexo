@@ -2020,7 +2020,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #16dbff;
+  background: #63a608;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3068,15 +3068,6 @@ hr {
   padding: 25px;
   -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
-}
-* {
-  cursor: url("https://ws2.sinaimg.cn/large/005Jbiotly1g1807z4iwxj300k00o0dj.jp"), auto !important;
-}
-:active {
-  cursor: url("https://ws3.sinaimg.cn/large/005Jbiotly1g1806ki2mfj300d00g08p.jp"), auto !important;
-}
-.header {
-  background: url("https://ws1.sinaimg.cn/large/005Jbiotly1g189ppjdggj32ym0lhwn5.jpg") none repeat scroll !important;
 }
 #sidebar {
   background: url("https://wx1.sinaimg.cn/large/005Jbiotly1g189v0yw36j30u01rc41b.jpg");
