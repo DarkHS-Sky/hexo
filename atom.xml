@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-19T15:16:52.000Z</updated>
+  <updated>2019-03-21T05:49:36.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>3.21博客境内外分流</title>
+    <link href="http://yoursite.com/2019/03/21/3-21%E5%8D%9A%E5%AE%A2%E5%A2%83%E5%86%85%E5%A4%96%E5%88%86%E6%B5%81/"/>
+    <id>http://yoursite.com/2019/03/21/3-21博客境内外分流/</id>
+    <published>2019-03-21T05:45:27.000Z</published>
+    <updated>2019-03-21T05:49:36.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="博客境内外分流"><a href="#博客境内外分流" class="headerlink" title="博客境内外分流"></a>博客境内外分流</h1><p>之前将博客部署到了GitHub上面，学校网络近期来抽疯，导致疯狂push不成功，所以我将博客做了境内外分流。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="境内外分流" scheme="http://yoursite.com/categories/%E5%A2%83%E5%86%85%E5%A4%96%E5%88%86%E6%B5%81/"/>
+    
+    
+      <category term="博客建设" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E8%AE%BE/"/>
+    
+  </entry>
   
   <entry>
     <title>3.19晚上网站上传出现问题，域名解析也崩，我卒</title>
