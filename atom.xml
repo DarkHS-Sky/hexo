@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-21T09:08:22.000Z</updated>
+  <updated>2019-04-01T12:07:54.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于博客内容</title>
+    <link href="http://yoursite.com/2019/04/01/%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9/"/>
+    <id>http://yoursite.com/2019/04/01/关于博客内容/</id>
+    <published>2019-04-01T12:04:41.000Z</published>
+    <updated>2019-04-01T12:07:54.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>博客内容不知道该写什么，等以后再说吧 ，就放着吧，闲置博客一枚</p><p><strong>分享妹纸照片</strong><img src="https://ws1.sinaimg.cn/large/005Jbiotly1g1ne2d9d9mj31xa2kd1j6.jpg" alt></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="博客内容" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9/"/>
+    
+  </entry>
   
   <entry>
     <title>win10实现滑动关机</title>

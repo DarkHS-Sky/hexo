@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[关于博客内容]]></title>
+    <url>%2F2019%2F04%2F01%2F%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9%2F</url>
+    <content type="text"><![CDATA[博客内容不知道该写什么，等以后再说吧 ，就放着吧，闲置博客一枚 分享妹纸照片]]></content>
+      <tags>
+        <tag>博客内容</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[win10实现滑动关机]]></title>
     <url>%2F2019%2F03%2F21%2Fwin10%E5%AE%9E%E7%8E%B0%E6%BB%91%E5%8A%A8%E5%85%B3%E6%9C%BA%2F</url>
     <content type="text"><![CDATA[win10实现滑动关机在win10环境下利用bat,vbs,简单操作实现酷炫的滑动关机 首先创建滑动关机.bat桌面右键新建文本文档，重命名为滑动关机.bat,并且粘贴复制下列代码，保存。 1Slidetoshutdown 现在就可以实现简单的滑动关机了，只是会弹出如下图弹窗 而想要消除这一弹窗，需要利用vbs调用滑动关机.bat 其次创建调用.vbs创建步骤如上面，复制下列代码，并且保存 12set ws=wscript.createobject(&quot;wscript.shell&quot;)ws.run &quot;滑动关机.bat /start&quot;,0 这次只需要双击调用.vps,就可以实现无弹窗的滑动关机了。 最后美化图标项目创建调用.vbs的快捷方式，放到桌面，原文件滑动关机.bat和调用.vbs，可以保存到其他地方了。 打开自己保存的快捷方式，可以看到，修改图标，重命名，还可以设置快捷键哦！具体实现效果，我懒得截图了 ，自己弄弄体验一下不就好了啊。]]></content>
