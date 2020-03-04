@@ -3,7 +3,7 @@
   <title>似曾相识燕归来</title>
   
   <subtitle>在记录中不断成长</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/hexo/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
   <updated>2019-04-21T05:57:46.000Z</updated>
@@ -23,13 +23,13 @@
     <published>2019-04-01T12:04:41.000Z</published>
     <updated>2019-04-21T05:57:46.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>博客内容不知道该写什么，等以后再说吧 ，就放着吧，闲置博客一枚</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\hexo\assets\css\APlayer.min.css"><script src="\hexo\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>博客内容不知道该写什么，等以后再说吧 ，就放着吧，闲置博客一枚</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\hexo\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\hexo\assets\js\APlayer.m
       
     
     </summary>
@@ -46,13 +46,13 @@
     <published>2019-03-21T08:46:09.000Z</published>
     <updated>2019-03-21T09:08:22.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="win10实现滑动关机"><a href="#win10实现滑动关机" class="headerlink" title="win10实现滑动关机"></a>win10实现<strong>滑动</strong>关机</h1><p>在win10环境下利用<strong>bat,vbs,</strong>简单操作实现酷炫的滑动关机</p><h2 id="首先创建滑动关机-bat"><a href="#首先创建滑动关机-bat" class="headerlink" title="首先创建滑动关机.bat"></a>首先创建<strong>滑动关机.bat</strong></h2><p>桌面右键新建文本文档，重命名为<strong>滑动关机.bat</strong>,并且粘贴复制下列代码，保存。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Slidetoshutdown</span><br></pre></td></tr></table></figure><p>现在就可以实现简单的滑动关机了，只是会弹出如下图弹窗</p><p><img src="https://ws1.sinaimg.cn/large/005Jbiotly1g1aizrz5cgj30hf0ccglo.jpg" alt></p><p>而想要消除这一弹窗，需要利用vbs调用<strong>滑动关机.bat</strong></p><h2 id="其次创建调用-vbs"><a href="#其次创建调用-vbs" class="headerlink" title="其次创建调用.vbs"></a>其次创建调用.vbs</h2><p>创建步骤如上面，复制下列代码，并且保存</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">set ws=wscript.createobject(&quot;wscript.shell&quot;)</span><br><span class="line">ws.run &quot;滑动关机.bat /start&quot;,0</span><br></pre></td></tr></table></figure><p>这次只需要双击调用.vps,就可以实现无弹窗的滑动关机了。</p><h2 id="最后美化图标项目"><a href="#最后美化图标项目" class="headerlink" title="最后美化图标项目"></a>最后美化图标项目</h2><p>创建<strong>调用.vbs</strong>的<strong>快捷方式</strong>，放到桌面，原文件<strong>滑动关机.bat</strong>和<strong>调用.vbs</strong>，可以保存到其他地方了。</p><p><img src="https://ws1.sinaimg.cn/large/005Jbiotly1g1aiyqc0cmj30f30lf0tk.jpg" alt></p><p>打开自己保存的快捷方式，可以看到，<strong>修改图标</strong>，<strong>重命名</strong>，还可以<strong>设置快捷键</strong>哦！具体实现效果，我懒得截图了 ，自己弄弄体验一下不就好了啊。</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\hexo\assets\css\APlayer.min.css"><script src="\hexo\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="win10实现滑动关机"><a href="#win10实现滑动关机" class="headerlink" title="win10实现滑动关机"></a>win10实现<strong>滑动</strong>关机</h1><p>在win10环境下利用<strong>bat,vbs,</strong>简单操作实现酷炫的滑动关机</p><h2 id="首先创建滑动关机-bat"><a href="#首先创建滑动关机-bat" class="headerlink" title="首先创建滑动关机.bat"></a>首先创建<strong>滑动关机.bat</strong></h2><p>桌面右键新建文本文档，重命名为<strong>滑动关机.bat</strong>,并且粘贴复制下列代码，保存。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Slidetoshutdown</span><br></pre></td></tr></table></figure><p>现在就可以实现简单的滑动关机了，只是会弹出如下图弹窗</p><p><img src="https://ws1.sinaimg.cn/large/005Jbiotly1g1aizrz5cgj30hf0ccglo.jpg" alt></p><p>而想要消除这一弹窗，需要利用vbs调用<strong>滑动关机.bat</strong></p><h2 id="其次创建调用-vbs"><a href="#其次创建调用-vbs" class="headerlink" title="其次创建调用.vbs"></a>其次创建调用.vbs</h2><p>创建步骤如上面，复制下列代码，并且保存</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">set ws=wscript.createobject(&quot;wscript.shell&quot;)</span><br><span class="line">ws.run &quot;滑动关机.bat /start&quot;,0</span><br></pre></td></tr></table></figure><p>这次只需要双击调用.vps,就可以实现无弹窗的滑动关机了。</p><h2 id="最后美化图标项目"><a href="#最后美化图标项目" class="headerlink" title="最后美化图标项目"></a>最后美化图标项目</h2><p>创建<strong>调用.vbs</strong>的<strong>快捷方式</strong>，放到桌面，原文件<strong>滑动关机.bat</strong>和<strong>调用.vbs</strong>，可以保存到其他地方了。</p><p><img src="https://ws1.sinaimg.cn/large/005Jbiotly1g1aiyqc0cmj30f30lf0tk.jpg" alt></p><p>打开自己保存的快捷方式，可以看到，<strong>修改图标</strong>，<strong>重命名</strong>，还可以<strong>设置快捷键</strong>哦！具体实现效果，我懒得截图了 ，自己弄弄体验一下不就好了啊。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\hexo\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\hexo\assets\js\APlayer.m
       
     
     </summary>
@@ -71,13 +71,13 @@
     <published>2019-03-21T05:45:27.000Z</published>
     <updated>2019-03-21T05:49:36.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="博客境内外分流"><a href="#博客境内外分流" class="headerlink" title="博客境内外分流"></a>博客境内外分流</h1><p>之前将博客部署到了GitHub上面，学校网络近期来抽疯，导致疯狂push不成功，所以我将博客做了境内外分流。</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\hexo\assets\css\APlayer.min.css"><script src="\hexo\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="博客境内外分流"><a href="#博客境内外分流" class="headerlink" title="博客境内外分流"></a>博客境内外分流</h1><p>之前将博客部署到了GitHub上面，学校网络近期来抽疯，导致疯狂push不成功，所以我将博客做了境内外分流。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\hexo\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\hexo\assets\js\APlayer.m
       
     
     </summary>
@@ -96,13 +96,13 @@
     <published>2019-03-19T15:05:59.000Z</published>
     <updated>2019-04-21T05:57:28.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="443端口超时"><a href="#443端口超时" class="headerlink" title="443端口超时"></a>443端口超时</h1><p>执行<strong>hexo d</strong> 出现443端口超时，SSH也连接不上，各种难受，俩小时的各种折腾，现在应该是好了，期待明天吧</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\hexo\assets\css\APlayer.min.css"><script src="\hexo\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="443端口超时"><a href="#443端口超时" class="headerlink" title="443端口超时"></a>443端口超时</h1><p>执行<strong>hexo d</strong> 出现443端口超时，SSH也连接不上，各种难受，俩小时的各种折腾，现在应该是好了，期待明天吧</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\hexo\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\hexo\assets\js\APlayer.m
       
     
     </summary>
@@ -119,13 +119,13 @@
     <published>2019-03-18T11:58:15.000Z</published>
     <updated>2019-04-21T05:57:12.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="大致完成，有待提升"><a href="#大致完成，有待提升" class="headerlink" title="大致完成，有待提升"></a><strong><u>大致完成，有待提升</u></strong></h1><p>今日大致配置了博客NEXT主题的各种功能，加入了在线联系，搞怪的JS网页标题特效，<del>加入了网易云音乐歌单，</del>动态背景和鼠标点击特效。</p><h2 id="修改以下部分"><a href="#修改以下部分" class="headerlink" title="修改以下部分"></a>修改以下部分</h2><p>关掉了<strong>busuanzi统计</strong>功能，开启会使文档显示俩统计字数和热度，修改了网页图标，</p><p>3.19：修改鼠标点击特效为爱心，关掉了显示热度。网易云歌单出现了问题</p><h2 id="以下为未完成功能"><a href="#以下为未完成功能" class="headerlink" title="以下为未完成功能"></a>以下为未完成功能</h2><p><strong>不同浏览器会有不同的bug</strong></p><p><del><strong>网站统计总访客量：崩了</strong></del></p><p><del><strong>侧边栏的背景：还是不会</strong></del></p><p><strong>鼠标样式：正在找好看的样式</strong></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\hexo\assets\css\APlayer.min.css"><script src="\hexo\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="大致完成，有待提升"><a href="#大致完成，有待提升" class="headerlink" title="大致完成，有待提升"></a><strong><u>大致完成，有待提升</u></strong></h1><p>今日大致配置了博客NEXT主题的各种功能，加入了在线联系，搞怪的JS网页标题特效，<del>加入了网易云音乐歌单，</del>动态背景和鼠标点击特效。</p><h2 id="修改以下部分"><a href="#修改以下部分" class="headerlink" title="修改以下部分"></a>修改以下部分</h2><p>关掉了<strong>busuanzi统计</strong>功能，开启会使文档显示俩统计字数和热度，修改了网页图标，</p><p>3.19：修改鼠标点击特效为爱心，关掉了显示热度。网易云歌单出现了问题</p><h2 id="以下为未完成功能"><a href="#以下为未完成功能" class="headerlink" title="以下为未完成功能"></a>以下为未完成功能</h2><p><strong>不同浏览器会有不同的bug</strong></p><p><del><strong>网站统计总访客量：崩了</strong></del></p><p><del><strong>侧边栏的背景：还是不会</strong></del></p><p><strong>鼠标样式：正在找好看的样式</strong></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\hexo\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\hexo\assets\js\APlayer.m
       
     
     </summary>
@@ -142,13 +142,13 @@
     <published>2019-03-17T01:24:21.000Z</published>
     <updated>2019-03-17T03:28:42.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>在今天我利用Hexo和GitHub完成了了我的第一个博客网站，感谢CSDN大佬的教程，详细且简介明了。<br>在此说明一下，这个博客一定会更好的，我可以的，嘿嘿。</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\hexo\assets\css\APlayer.min.css"><script src="\hexo\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>在今天我利用Hexo和GitHub完成了了我的第一个博客网站，感谢CSDN大佬的教程，详细且简介明了。<br>在此说明一下，这个博客一定会更好的，我可以的，嘿嘿。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\hexo\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\hexo\assets\js\APlayer.m
       
     
     </summary>

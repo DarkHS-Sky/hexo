@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title><![CDATA[关于博客内容]]></title>
-    <url>%2F2019%2F04%2F01%2F%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9%2F</url>
+    <url>%2Fhexo%2F2019%2F04%2F01%2F%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9%2F</url>
     <content type="text"><![CDATA[博客内容不知道该写什么，等以后再说吧 ，就放着吧，闲置博客一枚]]></content>
       <tags>
         <tag>博客内容</tag>
@@ -10,7 +10,7 @@
   </entry>
   <entry>
     <title><![CDATA[win10实现滑动关机]]></title>
-    <url>%2F2019%2F03%2F21%2Fwin10%E5%AE%9E%E7%8E%B0%E6%BB%91%E5%8A%A8%E5%85%B3%E6%9C%BA%2F</url>
+    <url>%2Fhexo%2F2019%2F03%2F21%2Fwin10%E5%AE%9E%E7%8E%B0%E6%BB%91%E5%8A%A8%E5%85%B3%E6%9C%BA%2F</url>
     <content type="text"><![CDATA[win10实现滑动关机在win10环境下利用bat,vbs,简单操作实现酷炫的滑动关机 首先创建滑动关机.bat桌面右键新建文本文档，重命名为滑动关机.bat,并且粘贴复制下列代码，保存。 1Slidetoshutdown 现在就可以实现简单的滑动关机了，只是会弹出如下图弹窗 而想要消除这一弹窗，需要利用vbs调用滑动关机.bat 其次创建调用.vbs创建步骤如上面，复制下列代码，并且保存 12set ws=wscript.createobject(&quot;wscript.shell&quot;)ws.run &quot;滑动关机.bat /start&quot;,0 这次只需要双击调用.vps,就可以实现无弹窗的滑动关机了。 最后美化图标项目创建调用.vbs的快捷方式，放到桌面，原文件滑动关机.bat和调用.vbs，可以保存到其他地方了。 打开自己保存的快捷方式，可以看到，修改图标，重命名，还可以设置快捷键哦！具体实现效果，我懒得截图了 ，自己弄弄体验一下不就好了啊。]]></content>
       <categories>
         <category>小技术分享</category>
@@ -21,7 +21,7 @@
   </entry>
   <entry>
     <title><![CDATA[3.21博客境内外分流]]></title>
-    <url>%2F2019%2F03%2F21%2F3-21%E5%8D%9A%E5%AE%A2%E5%A2%83%E5%86%85%E5%A4%96%E5%88%86%E6%B5%81%2F</url>
+    <url>%2Fhexo%2F2019%2F03%2F21%2F3-21%E5%8D%9A%E5%AE%A2%E5%A2%83%E5%86%85%E5%A4%96%E5%88%86%E6%B5%81%2F</url>
     <content type="text"><![CDATA[博客境内外分流之前将博客部署到了GitHub上面，学校网络近期来抽疯，导致疯狂push不成功，所以我将博客做了境内外分流。]]></content>
       <categories>
         <category>境内外分流</category>
@@ -32,7 +32,7 @@
   </entry>
   <entry>
     <title><![CDATA[3.19晚上网站上传出现问题，域名解析也崩，我卒]]></title>
-    <url>%2F2019%2F03%2F19%2F3-19%E6%99%9A%E4%B8%8A%E7%BD%91%E7%AB%99%E4%B8%8A%E4%BC%A0%E5%87%BA%E7%8E%B0%E9%97%AE%E9%A2%98%EF%BC%8C%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90%E4%B9%9F%E5%B4%A9%EF%BC%8C%E6%88%91%E5%8D%92%2F</url>
+    <url>%2Fhexo%2F2019%2F03%2F19%2F3-19%E6%99%9A%E4%B8%8A%E7%BD%91%E7%AB%99%E4%B8%8A%E4%BC%A0%E5%87%BA%E7%8E%B0%E9%97%AE%E9%A2%98%EF%BC%8C%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90%E4%B9%9F%E5%B4%A9%EF%BC%8C%E6%88%91%E5%8D%92%2F</url>
     <content type="text"><![CDATA[443端口超时执行hexo d 出现443端口超时，SSH也连接不上，各种难受，俩小时的各种折腾，现在应该是好了，期待明天吧]]></content>
       <tags>
         <tag>博客建设</tag>
@@ -40,7 +40,7 @@
   </entry>
   <entry>
     <title><![CDATA[3.18博客有待改善]]></title>
-    <url>%2F2019%2F03%2F18%2F3-18%E5%8D%9A%E5%AE%A2%E6%9C%89%E5%BE%85%E6%94%B9%E5%96%84%2F</url>
+    <url>%2Fhexo%2F2019%2F03%2F18%2F3-18%E5%8D%9A%E5%AE%A2%E6%9C%89%E5%BE%85%E6%94%B9%E5%96%84%2F</url>
     <content type="text"><![CDATA[大致完成，有待提升今日大致配置了博客NEXT主题的各种功能，加入了在线联系，搞怪的JS网页标题特效，加入了网易云音乐歌单，动态背景和鼠标点击特效。 修改以下部分关掉了busuanzi统计功能，开启会使文档显示俩统计字数和热度，修改了网页图标， 3.19：修改鼠标点击特效为爱心，关掉了显示热度。网易云歌单出现了问题 以下为未完成功能不同浏览器会有不同的bug 网站统计总访客量：崩了 侧边栏的背景：还是不会 鼠标样式：正在找好看的样式]]></content>
       <tags>
         <tag>博客建设</tag>
@@ -48,7 +48,7 @@
   </entry>
   <entry>
     <title><![CDATA[3.17 博客第一记]]></title>
-    <url>%2F2019%2F03%2F17%2F3-17-%E5%8D%9A%E5%AE%A2%E7%AC%AC%E4%B8%80%E8%AE%B0%2F</url>
+    <url>%2Fhexo%2F2019%2F03%2F17%2F3-17-%E5%8D%9A%E5%AE%A2%E7%AC%AC%E4%B8%80%E8%AE%B0%2F</url>
     <content type="text"><![CDATA[在今天我利用Hexo和GitHub完成了了我的第一个博客网站，感谢CSDN大佬的教程，详细且简介明了。在此说明一下，这个博客一定会更好的，我可以的，嘿嘿。]]></content>
   </entry>
 </search>
